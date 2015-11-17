@@ -1,0 +1,51 @@
+
+/* Class = "NSMenuItem"; title = "Ravioli"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Ravioli";
+
+/* Class = "NSMenuItem"; title = "Quit Ravioli"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quitter Ravioli";
+
+/* Class = "NSToolbarItem"; label = "Share"; ObjectID = "8Kg-ed-boS"; */
+"8Kg-ed-boS.label" = "Partager l'image";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Share"; ObjectID = "8Kg-ed-boS"; */
+"8Kg-ed-boS.paletteLabel" = "Partager l'image";
+
+/* Class = "NSToolbarItem"; toolTip = "Share image"; ObjectID = "8Kg-ed-boS"; */
+"8Kg-ed-boS.toolTip" = "Partager l'image";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSToolbarItem"; label = "Delete"; ObjectID = "D54-87-Nds"; */
+"D54-87-Nds.label" = "Supprimer l'image";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Delete"; ObjectID = "D54-87-Nds"; */
+"D54-87-Nds.paletteLabel" = "Supprimer l'image";
+
+/* Class = "NSToolbarItem"; toolTip = "Delete this image"; ObjectID = "D54-87-Nds"; */
+"D54-87-Nds.toolTip" = "Supprimer l'image";
+
+/* Class = "NSToolbarItem"; label = "Copy URL"; ObjectID = "FAn-Pc-3er"; */
+"FAn-Pc-3er.label" = "Copier le lien";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Copy URL"; ObjectID = "FAn-Pc-3er"; */
+"FAn-Pc-3er.paletteLabel" = "Copier le lien";
+
+/* Class = "NSToolbarItem"; toolTip = "Copy link"; ObjectID = "FAn-Pc-3er"; */
+"FAn-Pc-3er.toolTip" = "Copier le lien";
+
+/* Class = "NSWindow"; title = "Ravioli - All uploaded images"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Ravioli - Toutes les images envoyées";
+
+/* Class = "NSToolbarItem"; label = "Image title"; ObjectID = "iIR-2P-pjK"; */
+"iIR-2P-pjK.label" = "Image title";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Image title"; ObjectID = "iIR-2P-pjK"; */
+"iIR-2P-pjK.paletteLabel" = "Image title";
+
+/* Class = "NSTextFieldCell"; title = "Image name"; ObjectID = "qjB-UL-Sew"; */
+"qjB-UL-Sew.title" = "Image name";
+
+/* Class = "NSMenu"; title = "Ravioli"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Ravioli";

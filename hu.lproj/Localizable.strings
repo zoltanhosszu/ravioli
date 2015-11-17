@@ -1,0 +1,32 @@
+/* 
+  Localization.strings
+  Rapid
+
+  Created by Zoltan Hosszu on 9/22/15.
+  Copyright © 2015 Zoltan Hosszu. All rights reserved.
+*/
+
+DRAG_TO_UPLOAD = "Mozgass ide egy képfájt a feltöltéshez";
+ALL_UPLOADS = "Összes feltöltött kép";
+ABOUT_RAVIOLI = "Az appról";
+QUIT = "Kilépés";
+
+CANT_WRITE_DATABASE = "Nem lehet az adatbázisba írni";
+ERROR_CODE = "Hiba kód";
+ERROR_OCCURRED = "🚫 Hiba történt.";
+ERROR_UPLOADING = "Hiba történt a kép feltöltése közben.";
+
+COPIED_TO_CLIPBOARD = "A kép URL a vágólapra került 🔗";
+IMAGE_UPLOADED = "A kép sikeresen feltöltődött";
+IMAGE_TOO_BIG = "🚫 A fájl túl nagy méretű!";
+IMAGE_BIGGER_THAN = "A képet nem sikerült feltölteni, mert nagyobb mint 10 MB.";
+
+DELETE_IMAGE = "Biztosan törlöd a képet?";
+DELETE_FROM = "A kép a Ravioliból és az Imgurról is törlődik.";
+DELETE = "Törlöm";
+CANCEL = "Mégse";
+
+PREFERENCES = "Beállítások";
+USE_COPYURL = "Feltöltés után:";
+USE_RAVIOLI_URL = "Rövidebb rvo.li URL másolása";
+USE_IMGUR_URL = "Eredeti imgur.com URL másolása";

@@ -1,0 +1,51 @@
+
+/* Class = "NSMenuItem"; title = "Ravioli"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Ravioli";
+
+/* Class = "NSMenuItem"; title = "Quit Ravioli"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Kilépés";
+
+/* Class = "NSToolbarItem"; label = "Share"; ObjectID = "8Kg-ed-boS"; */
+"8Kg-ed-boS.label" = "Megosztás";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Share"; ObjectID = "8Kg-ed-boS"; */
+"8Kg-ed-boS.paletteLabel" = "Megosztás";
+
+/* Class = "NSToolbarItem"; toolTip = "Share image"; ObjectID = "8Kg-ed-boS"; */
+"8Kg-ed-boS.toolTip" = "Kép megosztása";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Főmenü";
+
+/* Class = "NSToolbarItem"; label = "Delete"; ObjectID = "D54-87-Nds"; */
+"D54-87-Nds.label" = "Törlés";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Delete"; ObjectID = "D54-87-Nds"; */
+"D54-87-Nds.paletteLabel" = "Törlés";
+
+/* Class = "NSToolbarItem"; toolTip = "Delete this image"; ObjectID = "D54-87-Nds"; */
+"D54-87-Nds.toolTip" = "Kép törlése";
+
+/* Class = "NSToolbarItem"; label = "Copy URL"; ObjectID = "FAn-Pc-3er"; */
+"FAn-Pc-3er.label" = "URL másolása";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Copy URL"; ObjectID = "FAn-Pc-3er"; */
+"FAn-Pc-3er.paletteLabel" = "URL másolása";
+
+/* Class = "NSToolbarItem"; toolTip = "Copy link"; ObjectID = "FAn-Pc-3er"; */
+"FAn-Pc-3er.toolTip" = "URL másolása";
+
+/* Class = "NSWindow"; title = "Ravioli - All uploaded images"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Ravioli - Összes feltöltött kép";
+
+/* Class = "NSToolbarItem"; label = "Image title"; ObjectID = "iIR-2P-pjK"; */
+"iIR-2P-pjK.label" = "Kép címe";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Image title"; ObjectID = "iIR-2P-pjK"; */
+"iIR-2P-pjK.paletteLabel" = "Kép címe";
+
+/* Class = "NSTextFieldCell"; title = "Image name"; ObjectID = "qjB-UL-Sew"; */
+"qjB-UL-Sew.title" = "A kép neve";
+
+/* Class = "NSMenu"; title = "Ravioli"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Ravioli";

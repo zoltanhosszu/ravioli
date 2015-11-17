@@ -1,0 +1,9 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8Kq-hj-cit"; */
+"8Kq-hj-cit.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "To upload images, drag & drop them to the icon in the menu bar."; ObjectID = "DTv-gt-ti8"; */
+"DTv-gt-ti8.title" = "Feltöltéshez dobd a Ravioli menü ikonjára a képeket.";
+
+/* Class = "NSTextFieldCell"; title = "No uploads yet"; ObjectID = "Z8D-yE-PNX"; */
+"Z8D-yE-PNX.title" = "Még nincs feltöltött kép";

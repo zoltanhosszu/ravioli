@@ -1,0 +1,32 @@
+/* 
+  Localization.strings
+  Rapid
+
+  Created by Zoltan Hosszu on 9/22/15.
+  Copyright © 2015 Zoltan Hosszu. All rights reserved.
+*/
+
+DRAG_TO_UPLOAD = "Faites glisser une image ici";
+ALL_UPLOADS = "Afficher les images envoyées";
+ABOUT_RAVIOLI = "À propos de Ravioli";
+QUIT = "Quitter Ravioli";
+
+CANT_WRITE_DATABASE = "Impossible d'écrire dans la base de données";
+ERROR_CODE = "Code d'erreur";
+ERROR_OCCURRED = "🚫 Une erreur s'est produite.";
+ERROR_UPLOADING = "Il y a eu une erreur lors de l'envoie de votre image.";
+
+COPIED_TO_CLIPBOARD = "Lien copié dans le presse-papiers 🔗";
+IMAGE_UPLOADED = "Votre image a été envoyée.";
+IMAGE_TOO_BIG = "🚫 L'image est trop grande à envoyer !";
+IMAGE_BIGGER_THAN = "Votre image n'a pas été envoyée car elle fait plus de 10 Mo.";
+
+DELETE_IMAGE = "Êtes-vous sûr de vouloir supprimer cette image ?";
+DELETE_FROM = "L'image sera supprimée de Ravioli et Imgur.";
+DELETE = "Supprimer";
+CANCEL = "Annuler";
+
+PREFERENCES = "Préférences";
+USE_COPYURL = "Après l'envoie de l'image:";
+USE_RAVIOLI_URL = "Courte URL rvo.li";
+USE_IMGUR_URL = "URL originale imgur.com";
