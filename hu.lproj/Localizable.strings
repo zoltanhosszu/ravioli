@@ -1,11 +1,3 @@
-/* 
-  Localization.strings
-  Rapid
-
-  Created by Zoltan Hosszu on 9/22/15.
-  Copyright © 2015 Zoltan Hosszu. All rights reserved.
-*/
-
 DRAG_TO_UPLOAD = "Mozgass ide egy képfájt a feltöltéshez";
 ALL_UPLOADS = "Összes feltöltött kép";
 ABOUT_RAVIOLI = "Az appról";

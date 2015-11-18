@@ -2,49 +2,49 @@
 "1Xt-HY-uBw.title" = "Ravioli";
 
 /* Class = "NSMenuItem"; title = "Quit Ravioli"; ObjectID = "4sb-4s-VLi"; */
-"4sb-4s-VLi.title" = "Kilépés";
+"4sb-4s-VLi.title" = "Išjungti Ravioli";
 
 /* Class = "NSToolbarItem"; label = "Share"; ObjectID = "8Kg-ed-boS"; */
-"8Kg-ed-boS.label" = "Megosztás";
+"8Kg-ed-boS.label" = "Dalintis";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Share"; ObjectID = "8Kg-ed-boS"; */
-"8Kg-ed-boS.paletteLabel" = "Megosztás";
+"8Kg-ed-boS.paletteLabel" = "Dalintis";
 
 /* Class = "NSToolbarItem"; toolTip = "Share image"; ObjectID = "8Kg-ed-boS"; */
-"8Kg-ed-boS.toolTip" = "Kép megosztása";
+"8Kg-ed-boS.toolTip" = "Dalintis paveikslėliu";
 
 /* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
-"AYu-sK-qS6.title" = "Főmenü";
+"AYu-sK-qS6.title" = "Pagrindinis Meniu";
 
 /* Class = "NSToolbarItem"; label = "Delete"; ObjectID = "D54-87-Nds"; */
-"D54-87-Nds.label" = "Törlés";
+"D54-87-Nds.label" = "Ištrinti";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Delete"; ObjectID = "D54-87-Nds"; */
-"D54-87-Nds.paletteLabel" = "Törlés";
+"D54-87-Nds.paletteLabel" = "ištrinti";
 
 /* Class = "NSToolbarItem"; toolTip = "Delete this image"; ObjectID = "D54-87-Nds"; */
-"D54-87-Nds.toolTip" = "Kép törlése";
+"D54-87-Nds.toolTip" = "Ištrinti paveikslėlį";
 
 /* Class = "NSToolbarItem"; label = "Copy URL"; ObjectID = "FAn-Pc-3er"; */
-"FAn-Pc-3er.label" = "URL másolása";
+"FAn-Pc-3er.label" = "Kopijuoti URL";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Copy URL"; ObjectID = "FAn-Pc-3er"; */
-"FAn-Pc-3er.paletteLabel" = "URL másolása";
+"FAn-Pc-3er.paletteLabel" = "Kopijuoti URL";
 
 /* Class = "NSToolbarItem"; toolTip = "Copy link"; ObjectID = "FAn-Pc-3er"; */
-"FAn-Pc-3er.toolTip" = "URL másolása";
+"FAn-Pc-3er.toolTip" = "Kopijuti URL";
 
 /* Class = "NSWindow"; title = "Ravioli - All uploaded images"; ObjectID = "QvC-M9-y7g"; */
-"QvC-M9-y7g.title" = "Ravioli - Összes feltöltött kép";
+"QvC-M9-y7g.title" = "Ravioli - Visi patalpinti paveikslėliai";
 
 /* Class = "NSToolbarItem"; label = "Image title"; ObjectID = "iIR-2P-pjK"; */
-"iIR-2P-pjK.label" = "Kép címe";
+"iIR-2P-pjK.label" = "Paveikslėlio pavadinimas";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Image title"; ObjectID = "iIR-2P-pjK"; */
-"iIR-2P-pjK.paletteLabel" = "Kép címe";
+"iIR-2P-pjK.paletteLabel" = "Paveikslėlio pavadinimas";
 
 /* Class = "NSTextFieldCell"; title = "Image name"; ObjectID = "qjB-UL-Sew"; */
-"qjB-UL-Sew.title" = "A kép neve";
+"qjB-UL-Sew.title" = "Paveikslėlio vardas";
 
 /* Class = "NSMenu"; title = "Ravioli"; ObjectID = "uQy-DD-JDr"; */
 "uQy-DD-JDr.title" = "Ravioli";

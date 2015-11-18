@@ -1,0 +1,24 @@
+DRAG_TO_UPLOAD = "Nuvilk paveikslėlį čia patalpinimui";
+ALL_UPLOADS = "Visi patalpinti paveikslėliai";
+ABOUT_RAVIOLI = "Apie Ravioli";
+QUIT = "Išjungti Ravioli";
+
+CANT_WRITE_DATABASE = "Nepavyko įrašyti duomenų į duombazę";
+ERROR_CODE = "Klaidos kodas";
+ERROR_OCCURRED = "🚫 Įvyko klaida.";
+ERROR_UPLOADING = "Įvyko klaida bandant patalpinti paveikslėlį.";
+
+COPIED_TO_CLIPBOARD = "Nuoroda nukopijuota į iškarpinę 🔗";
+IMAGE_UPLOADED = "Paveiksliukas buvo patalpintas.";
+IMAGE_TOO_BIG = "🚫 Paveikslėlis yra per didelis patalpinimui!";
+IMAGE_BIGGER_THAN = "Paveikslėlis nebuvo patalpintas, nes jis yra didesnis nei 10 MB.";
+
+DELETE_IMAGE = "Ar tikrai nori ištrinti šį paveikslėlį?";
+DELETE_FROM = "Paveikslėlis bus pašalintas iš Ravioli ir Imgur.";
+DELETE = "Ištrinti";
+CANCEL = "Atšaukti";
+
+PREFERENCES = "Nustatymai";
+USE_COPYURL = "Po patalpinimo nukopijuoti:";
+USE_RAVIOLI_URL = "Trumpą rvo.li URL nuoroda";
+USE_IMGUR_URL = "Originalią imgur.com URL nuoroda";

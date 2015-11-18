@@ -1,42 +1,49 @@
-
-/* Class = "NSButtonCell"; title = "Got it!"; ObjectID = "4dP-eM-dL9"; */
-"4dP-eM-dL9.title" = "Király, értettem!";
-
-/* Class = "NSTextFieldCell"; title = "Imgur is a free image hosting service, however keep these things in mind:"; ObjectID = "BUY-V6-p31"; */
-"BUY-V6-p31.title" = "Az Imgur egy ingyenes képtárhely,\nde ezeket jó észben tartani:";
-
-/* Class = "NSTextFieldCell"; title = "Don't be a jerk"; ObjectID = "DFS-Hb-WBq"; */
-"DFS-Hb-WBq.title" = "Ne légy barom";
-
-/* Class = "NSTextFieldCell"; title = "Your images are uploaded anonymously. If you upload an image to share with your friend, only your friend will be able to access it online. However, if you share an URL on Facebook, Twitter, etc., then it may end up in an Imgur gallery."; ObjectID = "E0K-H9-tbC"; */
-"E0K-H9-tbC.title" = "A képek teljesen anonim módon töltődnek fel. Ha a feltöltött kép linkjét csak barátaiddal osztod meg, csak ők fogják azt látni. Viszont ha megosztod mondjuk Facebookon vagy Twitteren, könnyen egy Imgur galériába kerülhet.";
-
-/* Class = "NSButtonCell"; title = "read the full ToS of Imgur"; ObjectID = "Fuv-B8-jBy"; */
-"Fuv-B8-jBy.title" = "Az Imgur felhasználási feltételei »";
-
-/* Class = "NSTextFieldCell"; title = "Drag & drop image files to upload them to Imgur.\nYou can upload JPEG, PNG, GIF and BMP files."; ObjectID = "IWA-Kl-hqp"; */
-"IWA-Kl-hqp.title" = "Dobd a Ravioli ikonjára a képeket.\nAz app az Imgurra tölti fel a JPEG, PNG, GIF és BMP fájlokat.";
-
 /* Class = "NSWindow"; title = "Window"; ObjectID = "QvC-M9-y7g"; */
 "QvC-M9-y7g.title" = "Ravioli";
 
-/* Class = "NSTextFieldCell"; title = "We strongly encourage you to                                                so there'll be no confusion about your images."; ObjectID = "Vqs-T3-a7I"; */
-"Vqs-T3-a7I.title" = "Erősen ajánljuk, hogy olvasd el az Imgur szabályzatát, így mindent érteni fogsz a feltöltött képeiddel kapcsolatban.";
-
-/* Class = "NSTextFieldCell"; title = "Read the full Terms of Service"; ObjectID = "Ynd-0u-jVx"; */
-"Ynd-0u-jVx.title" = "Olvasd el a Felhasználási Feltételeket";
-
-/* Class = "NSTextFieldCell"; title = "Don't upload copyrighted, illegal, hateful, threatening stuff. Don't use Imgur to host content for your website. If you do, Imgur will remove your images and ban you. "; ObjectID = "fSn-54-T3j"; */
-"fSn-54-T3j.title" = "Ne tölts fel jogvédett, illegális, gyűlöletkeltő, megfélemlítő dolgokat. Ne használd az Imgurt a weboldalad képeinek tárolására. Az Imgur különben törlo őket, téged pedig bannol.";
-
-/* Class = "NSTextFieldCell"; title = "Ravioli uploads to Imgur.com"; ObjectID = "jbV-8i-3Ep"; */
-"jbV-8i-3Ep.title" = "A Ravioli az Imgur.comra tölt fel";
+/* --------------------------------------------------- */
+/* This is the first step in the About Ravioli window */
+/* --------------------------------------------------- */
 
 /* Class = "NSTextFieldCell"; title = "Quickly upload images with Ravioli"; ObjectID = "shN-UN-t3p"; */
 "shN-UN-t3p.title" = "Töltsd fel képeidet a Raviolival";
 
+/* Class = "NSTextFieldCell"; title = "Drag & drop image files to upload them to Imgur.\nYou can upload JPEG, PNG, GIF and BMP files."; ObjectID = "IWA-Kl-hqp"; */
+"IWA-Kl-hqp.title" = "Dobd a Ravioli ikonjára a képeket.\nAz app az Imgurra tölti fel a JPEG, PNG, GIF és BMP fájlokat.";
+
 /* Class = "NSButtonCell"; title = "Next"; ObjectID = "wbe-OM-Dm5"; */
 "wbe-OM-Dm5.title" = "Tovább";
 
+/* --------------------------------------------------- */
+/* This is the second step in the About Ravioli window */
+/* --------------------------------------------------- */
+
+/* Class = "NSTextFieldCell"; title = "Ravioli uploads to Imgur.com"; ObjectID = "jbV-8i-3Ep"; */
+"jbV-8i-3Ep.title" = "A Ravioli az Imgur.comra tölt fel";
+
 /* Class = "NSTextFieldCell"; title = "Don't upload personal things"; ObjectID = "zso-V0-Rzr"; */
 "zso-V0-Rzr.title" = "Ne töltsd fel a személyes dolgaid";
+
+/* Class = "NSTextFieldCell"; title = "Imgur is a free image hosting service, however keep these things in mind:"; ObjectID = "BUY-V6-p31"; */
+"BUY-V6-p31.title" = "Az Imgur egy ingyenes képtárhely,\nde ezeket jó észben tartani:";
+
+/* Class = "NSTextFieldCell"; title = "Your images are uploaded anonymously. If you upload an image to share with your friend, only your friend will be able to access it online. However, if you share an URL on Facebook, Twitter, etc., then it may end up in an Imgur gallery."; ObjectID = "E0K-H9-tbC"; */
+"E0K-H9-tbC.title" = "A képek teljesen anonim módon töltődnek fel. Ha a feltöltött kép linkjét csak barátaiddal osztod meg, csak ők fogják azt látni. Viszont ha megosztod mondjuk Facebookon vagy Twitteren, könnyen egy Imgur galériába kerülhet.";
+
+/* Class = "NSTextFieldCell"; title = "Don't be a jerk"; ObjectID = "DFS-Hb-WBq"; */
+"DFS-Hb-WBq.title" = "Ne légy barom";
+
+/* Class = "NSTextFieldCell"; title = "Don't upload copyrighted, illegal, hateful, threatening stuff. Don't use Imgur to host content for your website. If you do, Imgur will remove your images and ban you. "; ObjectID = "fSn-54-T3j"; */
+"fSn-54-T3j.title" = "Ne tölts fel jogvédett, illegális, gyűlöletkeltő, megfélemlítő dolgokat. Ne használd az Imgurt a weboldalad képeinek tárolására. Az Imgur különben törlo őket, téged pedig bannol.";
+
+/* Class = "NSTextFieldCell"; title = "Read the full Terms of Service"; ObjectID = "Ynd-0u-jVx"; */
+"Ynd-0u-jVx.title" = "Olvasd el a Felhasználási Feltételeket";
+
+/* Class = "NSTextFieldCell"; title = "We strongly encourage you to read the full ToS of Imgur so there'll be no confusion about your images."; ObjectID = "Vqs-T3-a7I"; */
+"Vqs-T3-a7I.title" = "Erősen ajánljuk, hogy olvasd el az Imgur szabályzatát, így mindent érteni fogsz a feltöltött képeiddel kapcsolatban.";
+
+/* Class = "NSButtonCell"; title = "read the full ToS of Imgur"; ObjectID = "Fuv-B8-jBy"; */
+"Fuv-B8-jBy.title" = "Az Imgur felhasználási feltételei »";
+
+/* Class = "NSButtonCell"; title = "Got it!"; ObjectID = "4dP-eM-dL9"; */
+"4dP-eM-dL9.title" = "Király, értettem!";

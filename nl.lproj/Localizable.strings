@@ -1,0 +1,24 @@
+DRAG_TO_UPLOAD = "Sleep een afbeelding hierheen om te uploaden";
+ALL_UPLOADS = "Alle geüploade afbeeldingen";
+ABOUT_RAVIOLI = "Over Ravioli";
+QUIT = "Ravioli afsluiten";
+
+CANT_WRITE_DATABASE = "Kan data niet schrijven naar de database";
+ERROR_CODE = "Foutcode";
+ERROR_OCCURRED = "🚫 Er is een fout opgetreden.";
+ERROR_UPLOADING = "Er heeft zich een fout voorgedaan bij het uploaden.";
+
+COPIED_TO_CLIPBOARD = "Link gekopieerd naar klembord. 🔗";
+IMAGE_UPLOADED = "Je afbeelding is geüpload.";
+IMAGE_TOO_BIG = "🚫 De afbeelding is te groot om te uploaden!";
+IMAGE_BIGGER_THAN = "Je afbeelding is niet geüpload omdat deze groter is dan 10MB.";
+
+DELETE_IMAGE = "Ben je zeker dat je deze afbeelding wilt verwijderen?";
+DELETE_FROM = "De afbeelding zal worden verwijderd van Ravioli en Imgur.";
+DELETE = "Verwijderen";
+CANCEL = "Annuleren";
+
+PREFERENCES = "Opties";
+USE_COPYURL = "Na upload kopiëren:";
+USE_RAVIOLI_URL = "Korte rvo.li URL";
+USE_IMGUR_URL = "Oorspronkelijke imgur.com URL"
